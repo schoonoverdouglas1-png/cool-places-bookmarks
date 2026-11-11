@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Ember's Cool Places",
+  "version": "1.0.0",
+  "description": "Douglas's cool places — the bookmarks that are never lost, one click from the toolbar. Authored by Ember (Purple Rat) at Douglas's direction.",
+  "action": { "default_title": "Ember's Cool Places", "default_popup": "popup.html" },
+  "permissions": []
+}
